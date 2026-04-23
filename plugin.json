@@ -1,0 +1,8 @@
+{
+  "name": "token-doctor",
+  "version": "0.1.0",
+  "description": "Diagnose and fix Claude Code context bloat. Run when you're hitting usage limits after short conversations.",
+  "author": "danny",
+  "license": "MIT",
+  "skills": ["skills/token-doctor"]
+}
