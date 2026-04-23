@@ -35,7 +35,7 @@ cp -r skills/token-doctor ~/.claude/skills/
 If you host this repo on GitHub:
 
 ```bash
-claude plugin add <your-username>/token-doctor
+claude plugin add Danny-MD/token-doctor
 ```
 
 Then restart Claude Code.
